@@ -20,6 +20,7 @@ except for resizing. Diagrams (`*.png`) are my own.
 | `img/encoder.jpg` | Joao Paulo Chagas | CC BY 4.0 | [source](https://commons.wikimedia.org/wiki/File:Rotary_encoder.jpg) |
 | `img/end_effector.jpg` | Yingz | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:Assembly_line.jpg) |
 | `img/estop.jpg` | Tim Regan from Cambridge, UK | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Emergency_Stop_Button_(3225255407).jpg) |
+| `img/fieldbus.jpg` | Beckhoff Automation GmbH | CC BY-SA 3.0 de | [source](https://commons.wikimedia.org/wiki/File:Busklemmen_Beckhoff_BK1120.jpg) |
 | `img/grease.jpg` | Bryn Pinzgauer | CC BY 2.0 | [source](https://commons.wikimedia.org/wiki/File:Grease_gun_and_attachment.jpg) |
 | `img/insulation_tester.jpg` | Megger Ltd. | CC BY 3.0 | [source](https://commons.wikimedia.org/wiki/File:MJ15_by_Megger.jpg) |
 | `img/inverter.jpg` | Sthdhk | CC BY-SA 4.0 | [source](https://commons.wikimedia.org/wiki/File:MITSUBISHI_IGBT_module.jpg) |
